@@ -1,10 +1,39 @@
+# Security - Private Keys
 keys/
+temp_key_*.pem
+*.pem
+
+# Data Directories
 provenance/
+
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.egg-info/
+.Python
+venv/
+env/
+.venv/
+
+# Media Files (Test/Temp)
 input_*
 verify_*
 *.mp4
 *.png
 *.jpg
-temp_key_*.pem
+*.jpeg
+*.gif
+protected.*
+ahash.bin
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
