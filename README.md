@@ -7,6 +7,12 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 > **"Truth in the age of synthesis."**
+>
+> ## 🚀 Live Demo
+
+**Try it now:** [https://vibecraft-9hvz.onrender.com](https://vibecraft-9hvz.onrender.com)
+
+> 🌐 Hosted on Render with 24/7 uptime monitoring
 
 Hemlock is a dual-layer defense system designed to restore trust in digital media. As Generative AI models scrape the web to train on unauthorized data, Hemlock provides creators with an **Invisible Armor** against style theft and a **Cryptographic Seal** to prove authenticity.
 
