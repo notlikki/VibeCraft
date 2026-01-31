@@ -165,11 +165,12 @@ Hemlock/
 
 ## 👥 Team
 
-**VibeCraft Development Team**
-- Project Lead: [Your Name]
-- Backend Developer: [Your Name]
-- Frontend Developer: [Your Name]
-- Security Engineer: [Your Name]
+**Team Apatheia**
+- Ojasv Kushwah
+- Aadrit Srivastava
+- Kartikey Juyal
+- Likhith Kancherla
+- Sruthii Buggana
 
 ---
 
