@@ -1,0 +1,10 @@
+keys/
+provenance/
+__pycache__/
+*.pyc
+input_*
+verify_*
+*.mp4
+*.png
+*.jpg
+temp_key_*.pem

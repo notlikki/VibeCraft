@@ -1,0 +1,6 @@
+flask
+numpy
+imageio
+imageio[ffmpeg]
+cryptography
+gunicorn
