@@ -167,12 +167,10 @@ Hemlock/
 
 **Team Apatheia**
 - Ojasv Kushwah
-- Aadrit Srivastava
-- Kartikey Juyal
 - Likhith Kancherla
-- Sruthii Buggana
+
 
 ---
 
-**© 2026 Hemlock Project - VibeCraft Edition.**
+**© 2026 Hemlock**
 *Built for the Future of Media.*
